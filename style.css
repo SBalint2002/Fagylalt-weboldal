@@ -89,3 +89,9 @@ footer{
 #felso, #kozepso{
     padding-bottom: 40px;
 }
+
+.velemeny{
+    text-align: left;
+    width: 50%;
+    vertical-align: 0;
+}
