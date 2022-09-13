@@ -51,6 +51,10 @@ h1, h2{
     font-family: Arial;
 }
 
+h1{
+    font-size: 200%;
+}
+
 #fagyi{
     margin: auto;
     display: block;
@@ -78,6 +82,8 @@ p{
 footer{
     background-color: darkslategrey;
     color: white;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #felso, #kozepso{
